@@ -28,3 +28,4 @@
 
 * PCB outer diameter: 98 mm
 
+This is a trial of pull request.
